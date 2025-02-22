@@ -1,3 +1,3 @@
-module test2
+module Test2
 
 go 1.23.2
